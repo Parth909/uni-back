@@ -78,6 +78,8 @@ The Pipfile and Pipfile.lock will be created
 pipenv install
 ```
 
+**If Pipfile already present** - the pipenv install will install the packages in virtual env
+
 Then activate the pipfile
 
 ```bash
